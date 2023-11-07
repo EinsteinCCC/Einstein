@@ -1,16 +1,43 @@
-### Hi there 👋
+# Brylie Christopher Oxley
+Hi there 👋 I'm Brylie.
 
-<!--
-**Xin950724/Xin950724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![profile views](https://komarev.com/ghpvc/?username=brylie&color=blue)
 
-Here are some ideas to get you started:
+[![Brylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=brylie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brylie&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+- 🔭 I’m currently working on Wagtail Social Network
+- 🌱 I’m currently learning Django and Wagtail CMS
+- 👯 I’m looking to collaborate on open-source games written in Godot
+- 🤔 I’m looking for help with Wagtail Social Network
+- 💬 Ask me about Wagtail CMS
+- 📫 How to reach me: [Twitter](https://twitter.com/brylieo)
+- 😃 Pronouns: they/hän
+
+## Connect with me
+
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+## Languages and tools
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+[twitter]: https://twitter.com/BrylieO
+[youtube]: https://www.youtube.com/Brylie%20ChristopherOxley
+[linkedin]: https://www.linkedin.com/in/brylie-christopher-oxley
