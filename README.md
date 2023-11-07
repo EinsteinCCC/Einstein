@@ -1,11 +1,11 @@
 # Brylie Christopher Oxley
 Hi there 👋 I'm Brylie.
 
-![profile views](https://komarev.com/ghpvc/?username=brylie&color=blue)
+![profile views](https://komarev.com/ghpvc/?username=Xin950724&color=blue)
 
-[![Brylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=brylie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Brylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xin950724&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brylie&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xin950724&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
@@ -14,7 +14,7 @@ Hi there 👋 I'm Brylie.
 - 👯 I’m looking to collaborate on open-source games written in Godot
 - 🤔 I’m looking for help with Wagtail Social Network
 - 💬 Ask me about Wagtail CMS
-- 📫 How to reach me: [Twitter](https://twitter.com/brylieo)
+- 📫 How to reach me: [Twitter](https://twitter.com/Xin950724)
 - 😃 Pronouns: they/hän
 
 ## Connect with me
