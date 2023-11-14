@@ -1,5 +1,5 @@
-# Brylie Christopher Oxley
-Hi there 👋 I'm Brylie.
+# Java & React Native Engineer
+Hi there 👋 I am a senior mobile app developer.
 
 ![profile views](https://komarev.com/ghpvc/?username=Xin950724&color=blue)
 
