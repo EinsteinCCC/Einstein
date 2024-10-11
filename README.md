@@ -1,5 +1,5 @@
-# Mobile Englineer( Java | Kotlin | Swift | React Native | Flutter Ionic)
-Hi there 👋 I am a senior mobile app developer.
+# Mobile Englineer( Javascript | TypeScript | Java | Kotlin | Swift | React Native | Flutter | Ionic)
+Hi there 👋 I am a senior web&mobile app developer.
 
 ![profile views](https://komarev.com/ghpvc/?username=Xin950724&color=blue)
 
