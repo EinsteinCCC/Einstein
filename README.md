@@ -9,13 +9,6 @@ Hi there 👋 I am a senior blockchain engineer.
 
 <br />
 
-- 🔭 I’m currently working on Wagtail Social Network
-- 🌱 I’m currently learning Django and Wagtail CMS
-- 👯 I’m looking to collaborate on open-source games written in Godot
-- 🤔 I’m looking for help with Wagtail Social Network
-- 💬 Ask me about Wagtail CMS
-- 📫 How to reach me: [Twitter](https://twitter.com/Xin950724)
-- 😃 Pronouns: they/hän
 
 ## Connect with me
 
