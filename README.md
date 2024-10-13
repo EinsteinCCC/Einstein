@@ -1,5 +1,5 @@
-# Mobile Englineer( Javascript | TypeScript | Java | Kotlin | Swift | React Native | Flutter | Ionic)
-Hi there 👋 I am a senior web&mobile app developer.
+# Senior Blockchain Engineer | DeFi, DApps, DEX, CEX, Web3 Expert on Ethereum & Solana
+Hi there 👋 I am a senior blockchain engineer.
 
 ![profile views](https://komarev.com/ghpvc/?username=Xin950724&color=blue)
 
