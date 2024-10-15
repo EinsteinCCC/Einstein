@@ -5,7 +5,7 @@
 🚀 I write Rust that *actually compiles* and build things on Solana that *don't crash*!  
 When I'm not taming decentralized exchanges (DEX) or central exchanges (CEX), I'm probably debugging something... 🌪️
 
-![coding wizard](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 ## 💻 Tech Stack:
 - **Languages:** 🦀 Rust (my best friend), 🛠️ JavaScript, Solidity (for when things get spicy)
@@ -19,7 +19,7 @@ When I'm not taming decentralized exchanges (DEX) or central exchanges (CEX), I'
 - Building a DeFi protocol so efficient, even Vitalik would approve. 👑  
 - Creating a DEX so decentralized, not even I can shut it down. 🚫
 
-![building the future](https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif)
+<img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="100%" />
 
 ## 🌟 Fun Facts:
 - I once implemented an entire DeFi platform while waiting for a Solana transaction confirmation... yes, it was that long! ⏳
@@ -40,7 +40,7 @@ When I'm not taming decentralized exchanges (DEX) or central exchanges (CEX), I'
 2. **Rusty Dex** - A DEX where bugs are rare, but when they happen, it's *just a feature*. 🐛
 3. **DeFi 3000** - The ultimate yield farming experience, with APRs that are totally *not* too good to be true... 🌽
 
-![hacker life](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
 
 ## 👀 Looking for:
 - Collaborations on next-gen DeFi protocols 🏦  
