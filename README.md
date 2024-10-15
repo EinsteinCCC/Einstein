@@ -1,38 +1,53 @@
-# Senior Blockchain Engineer | DeFi, DApps, DEX, CEX, Web3 Expert on Ethereum & Solana
-Hi there 👋 I am a senior blockchain engineer.
+# 👋 Howdy! I'm Einstein CCC!
 
-![profile views](https://komarev.com/ghpvc/?username=Xin950724&color=blue)
+🌐 **Blockchain Enthusiast | DeFi Wizard | DApp Alchemist**
 
-[![Brylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xin950724&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+🚀 I write Rust that *actually compiles* and build things on Solana that *don't crash*!  
+When I'm not taming decentralized exchanges (DEX) or central exchanges (CEX), I'm probably debugging something... 🌪️
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xin950724&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![coding wizard](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+## 💻 Tech Stack:
+- **Languages:** 🦀 Rust (my best friend), 🛠️ JavaScript, Solidity (for when things get spicy)
+- **Blockchain:** 🔗 Solana (low fees, high fun), Ethereum (only when I have gas money)
+- **DeFi:** 🏦 Yield Farming, Liquidity Pools, Staking (because hodling is too mainstream)
+- **DApps:** 📱 Making decentralized things that sometimes work
+- **Exchanges:** 💱 DEX > CEX (but I still know both!)
+- **Tooling:** ⚙️ Hardhat, Anchor, Metaplex (where magic happens)
 
-<br />
+## 🧙‍♂️ Current Quest:
+- Building a DeFi protocol so efficient, even Vitalik would approve. 👑  
+- Creating a DEX so decentralized, not even I can shut it down. 🚫
 
+![building the future](https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif)
 
-## Connect with me
+## 🌟 Fun Facts:
+- I once implemented an entire DeFi platform while waiting for a Solana transaction confirmation... yes, it was that long! ⏳
+- I dream in Rust macros... and sometimes in assembly (don't ask). 💭
 
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🛠️ Skills:
+- 🦾 Writing code that *probably* won’t rug you.
+- 🧠 Debugging blockchain issues faster than a Solana block time (sometimes).
+- 🔒 Securing smart contracts against all known attacks, except for the ones yet to be invented.
 
-<br />
+## 📊 Stats:
+- Blocks processed: ∞
+- Bug bounty collected: 0 (I'm too good at avoiding bugs)  
+- Gas fees wasted: More than I'd like to admit... 😅
 
-## Languages and tools
+## 🚀 Projects I'm Proud Of:
+1. **Solana Super-DApp** - A decentralized app so fast, you'll miss it if you blink. 👀
+2. **Rusty Dex** - A DEX where bugs are rare, but when they happen, it's *just a feature*. 🐛
+3. **DeFi 3000** - The ultimate yield farming experience, with APRs that are totally *not* too good to be true... 🌽
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+![hacker life](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## 👀 Looking for:
+- Collaborations on next-gen DeFi protocols 🏦  
+- Building decentralized apps that scale (or at least don’t crash)
+- Memes, because even developers need to laugh... 😆
 
-[twitter]: https://twitter.com/BrylieO
-[youtube]: https://www.youtube.com/Brylie%20ChristopherOxley
-[linkedin]: https://www.linkedin.com/in/brylie-christopher-oxley
+---
 
+🚨 **Warning:** My code may contain features disguised as bugs. Use at your own risk.  
+👨‍💻 Happy hacking! Feel free to fork, star, or just leave a sarcastic comment. I'll take it all.
