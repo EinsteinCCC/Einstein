@@ -5,10 +5,8 @@
 🚀 I write Rust that *actually compiles* and build things on Solana that *don't crash*!  
 When I'm not taming decentralized exchanges (DEX) or central exchanges (CEX), I'm probably debugging something... 🌪️
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
 ## 💻 Tech Stack:
-- **Languages:** 🦀 Rust (my best friend), 🛠️ JavaScript, Solidity (for when things get spicy)
+- **Languages:** 🦀 Rust (my best friend), 🛠️ JavaScript, Solidity (for when things get spicy) <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
 - **Blockchain:** 🔗 Solana (low fees, high fun), Ethereum (only when I have gas money)
 - **DeFi:** 🏦 Yield Farming, Liquidity Pools, Staking (because hodling is too mainstream)
 - **DApps:** 📱 Making decentralized things that sometimes work
@@ -18,8 +16,6 @@ When I'm not taming decentralized exchanges (DEX) or central exchanges (CEX), I'
 ## 🧙‍♂️ Current Quest:
 - Building a DeFi protocol so efficient, even Vitalik would approve. 👑  
 - Creating a DEX so decentralized, not even I can shut it down. 🚫
-
-<img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="100%" />
 
 ## 🌟 Fun Facts:
 - I once implemented an entire DeFi platform while waiting for a Solana transaction confirmation... yes, it was that long! ⏳
